@@ -171,20 +171,16 @@ A serverless AWS security analytics system that combines rule-based detection wi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leluc212&show_icons=true&hide_border=true&rank_icon=github" alt="Le Tan Luc's GitHub statistics"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=leluc212&show_icons=true&theme=transparent&hide_border=true"
+  height="160"
+  alt="GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leluc212&layout=compact&hide_border=true" alt="Most used programming languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-I am open to learning opportunities, technical collaboration, and discussions about AWS, CloudOps, Generative AI, and Cloud Security.
-
-**Ho Chi Minh City, Vietnam**
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leluc212&layout=compact&theme=transparent&hide_border=true"
+  height="160"
+  alt="Top languages"
+/>
 
 </div>
