@@ -28,86 +28,58 @@ I enjoy building secure and scalable cloud systems, serverless applications, and
 
 ---
 
-## AWS Cloud Expertise
-
-Hands-on experience with AWS compute, storage, databases, networking, security, monitoring, analytics, serverless, and Generative AI services.
-
-### Compute & Containers
-
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-### Storage & Databases
-
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Amazon EBS](https://img.shields.io/badge/Amazon_EBS-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-### Networking & Content Delivery
-
-![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Route 53](https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
-![Elastic Load Balancing](https://img.shields.io/badge/Elastic_Load_Balancing-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![Amazon API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-
-### Security & Identity
-
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Shield](https://img.shields.io/badge/AWS_Shield-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-
-### Monitoring & Operations
-
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Systems Manager](https://img.shields.io/badge/AWS_Systems_Manager-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white)
-
-### Analytics & Generative AI
-
-![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-
-### DevOps & Infrastructure as Code
-
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
 ## Generative AI & Development Skills
 
-### Generative AI
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-5A67D8?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_AI-7C3AED?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM-059669?style=flat-square)
-
-### Programming & Web
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-5A67D8?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_AI-7C3AED?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM-059669?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-AI_Observability-111827?style=flat-square)
+![TinyFish](https://img.shields.io/badge/TinyFish-Web_Agent-2563EB?style=flat-square)
+![Apify](https://img.shields.io/badge/Apify-Web_Data-00A67E?style=flat-square&logo=apify&logoColor=white)
+
+---
+
+## AWS Cloud Expertise
+
+Hands-on experience across AWS compute, serverless, networking, databases, security, observability, analytics, and AI services.
+
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon EBS](https://img.shields.io/badge/EBS-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Bedrock-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -191,7 +163,7 @@ A serverless AWS security analytics system that combines rule-based detection wi
 - Network and Communications Security — ISC2
 - Systems and Application Security — ISC2
 - Cryptography — ISC2
-- AWS Certified AI Practitioner — Preparing
+- AWS Certified AI Practitioner — In Progress (Expected 08/2026)
 
 ---
 
