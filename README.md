@@ -2,7 +2,7 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-### CloudOps Engineer · Generative AI Engineer
+### CloudOps Engineer · Generative AI Engineer 
 
 Building secure, scalable, and practical solutions with AWS and Generative AI.
 
@@ -154,6 +154,8 @@ A serverless AWS security analytics system that combines rule-based detection wi
 
 ## Certifications & Learning
 
+- AWS Certified AI Practitioner — In Progress (Expected 08/2026)
+- AWS Certified Cloud Practitioner — In Progress (Expected 08/2026)
 - AWS Cloud Practitioner Essentials — Amazon Web Services
 - Generative AI and LLM Security — Edureka
 - Generative AI for Security Fundamentals — Edureka
@@ -163,24 +165,3 @@ A serverless AWS security analytics system that combines rule-based detection wi
 - Network and Communications Security — ISC2
 - Systems and Application Security — ISC2
 - Cryptography — ISC2
-- AWS Certified AI Practitioner — In Progress (Expected 08/2026)
-
----
-
-## GitHub Overview
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=leluc212&show_icons=true&theme=transparent&hide_border=true"
-  height="160"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leluc212&layout=compact&theme=transparent&hide_border=true"
-  height="160"
-  alt="Top languages"
-/>
-
-</div>
