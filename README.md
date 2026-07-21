@@ -1,73 +1,53 @@
-# Le Tan Luc
+### AWS Services
 
-CloudOps and Generative AI enthusiast focusing on AWS infrastructure, 
-cloud security, serverless architectures, automation, and AI-powered applications.
+#### Compute & Containers
 
-I am an Information Security student with a strong interest in building secure,
-scalable, and reliable cloud solutions. I am currently developing practical
-experience with AWS services, Infrastructure as Code, CI/CD, monitoring, and
-Generative AI.
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-## What I Work On
+#### Storage & Databases
 
-- Designing secure and scalable architectures on AWS
-- Building serverless applications with AWS Lambda, API Gateway and DynamoDB
-- Automating cloud infrastructure using Terraform
-- Creating CI/CD pipelines with GitHub Actions
-- Monitoring cloud systems using Amazon CloudWatch
-- Learning IAM, network security and AWS security best practices
-- Developing Generative AI applications using Amazon Bedrock
-- Exploring RAG, AI Agents and secure LLM architectures
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon EBS](https://img.shields.io/badge/Amazon_EBS-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-## Tech Stack
+#### Networking & Delivery
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Route 53](https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+![Elastic Load Balancing](https://img.shields.io/badge/Elastic_Load_Balancing-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 
-## Certifications and Learning
+#### Security & Identity
 
-- AWS Certified AI Practitioner — In Progress
-- AWS Cloud Infrastructure
-- Cloud Security and Identity and Access Management
-- Infrastructure as Code with Terraform
-- Generative AI and Responsible AI
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Shield](https://img.shields.io/badge/AWS_Shield-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
 
-## Featured Projects
+#### Monitoring & Operations
 
-### Secure AI Recruitment Platform
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Systems Manager](https://img.shields.io/badge/AWS_Systems_Manager-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white)
 
-AI-powered recruitment platform supporting CV screening, candidate–job
-matching, real-time AI interviews and automatic job description generation.
+#### Analytics & AI
 
-**Technologies:** AWS Lambda, API Gateway, DynamoDB, Amazon S3 and LLMs.
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Serverless Security Analytics System
+#### DevOps & Infrastructure as Code
 
-AWS security analytics architecture using AWS WAF logs, Amazon S3,
-AWS Glue, Athena and Amazon Bedrock to detect suspicious activities
-and reduce false-positive alerts.
-
-### Secure Text-to-SQL Agent
-
-Research-oriented framework for improving prompt-flow integrity,
-access control and security in Text-to-SQL agents.
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/l%C3%AAt%E1%BA%A5nl%E1%BB%B1c/))
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=flat&logo=googlechrome)](YOUR_PORTFOLIO_URL)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leluc2200@gmail.com)
+![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-759C3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
