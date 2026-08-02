@@ -2,9 +2,9 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-### CloudOps Engineer · Generative AI Engineer
+### AWS Cloud Security · CloudOps Engineer
 
-Building secure, scalable, and practical cloud solutions with **AWS**, **Generative AI**, and **Cloud Security**.
+Building secure, scalable, and practical cloud solutions with **AWS**, **CloudOps**, and **Cloud Security**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Tan%20Luc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/letanluc)
 [![Email](https://img.shields.io/badge/Email-leluc2200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leluc2200@gmail.com)
