@@ -2,11 +2,11 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-### AWS Cloud Security · CloudOps Engineer
+### Red Team · AWS Cloud Security
 
-Building secure, scalable, and practical cloud solutions with **AWS**, **CloudOps**, and **Cloud Security**.
+Building secure cloud systems and assessing AWS environments through **controlled attack simulation**, **evidence-driven findings**, and **least-privilege remediation**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Tan%20Luc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/letanluc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Tan%20Luc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luclt)
 [![Email](https://img.shields.io/badge/Email-leluc2200%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leluc2200@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-leluc212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leluc212)
 [![Portfolio](https://img.shields.io/badge/Project-OpPoCareer-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oppocareer.com)
@@ -17,9 +17,9 @@ Building secure, scalable, and practical cloud solutions with **AWS**, **CloudOp
 
 ## 👨‍💻 About Me
 
-I am an **Information Assurance student at FPT University** pursuing opportunities in **CloudOps Engineering** and **Generative AI Engineering**.
+I am a **final-year Information Assurance student at FPT University** pursuing junior opportunities in **Red Team** and **AWS Cloud Security Assessment**, particularly in banking and other regulated environments.
 
-My main interests include AWS cloud infrastructure, serverless architecture, cloud security, LLM applications, RAG systems, AI agents, and secure AI development. I am gaining hands-on experience through the **First Cloud AI Journey Program** while preparing for AWS certifications.
+I have hands-on experience reviewing IAM permissions, identifying cloud misconfigurations, validating credential and public-resource exposure risks, analyzing CloudTrail and CloudWatch logs, collecting technical evidence, and recommending least-privilege remediation. I also build secure serverless and Agentic AI systems, allowing me to approach cloud security from both offensive and architectural perspectives.
 
 <table>
 <tr>
@@ -27,22 +27,22 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 
 ### 🔭 Current Focus
 
-- AWS CloudOps and cloud architecture
-- Serverless and event-driven systems
-- Generative AI and LLM integration
-- AI agent security and observability
-- Infrastructure as Code and CI/CD
+- AWS cloud security assessment and IAM enumeration
+- Controlled attack simulation and privilege-escalation labs
+- Cloud misconfiguration, logging, and evidence collection
+- Least-privilege remediation and configuration retesting
+- Secure serverless and Agentic AI architectures
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ What I Build
 
-- Secure AWS cloud applications
-- AI-powered business platforms
-- Structured LLM evaluation pipelines
-- RAG and autonomous agent workflows
-- Security analytics and monitoring systems
+- AWS security labs and attack-path demonstrations
+- Security assessment reports with evidence and remediation
+- Cloud log analytics and monitoring workflows
+- Secure serverless and AI-powered applications
+- Infrastructure as Code security controls
 
 </td>
 </tr>
@@ -73,6 +73,18 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 ![TinyFish](https://img.shields.io/badge/TinyFish-Web%20Agent-2563EB?style=flat-square)
 ![Apify](https://img.shields.io/badge/Apify-Web%20Data-00A67E?style=flat-square&logo=apify&logoColor=white)
 
+### Security Assessment & Analysis
+
+![Pacu](https://img.shields.io/badge/Pacu-AWS%20Exploitation-B91C1C?style=flat-square)
+![ScoutSuite](https://img.shields.io/badge/ScoutSuite-Cloud%20Audit-DC2626?style=flat-square)
+![Prowler](https://img.shields.io/badge/Prowler-AWS%20Security-EA580C?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Discovery-2563EB?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CVSS v3.1](https://img.shields.io/badge/CVSS-v3.1-7F1D1D?style=flat-square)
+
 ### AWS, CloudOps & DevOps
 
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
@@ -89,6 +101,10 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 ![AWS KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Security Hub](https://img.shields.io/badge/Security%20Hub-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Config](https://img.shields.io/badge/AWS%20Config-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM Policy Simulator](https://img.shields.io/badge/IAM%20Policy%20Simulator-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
@@ -103,16 +119,16 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 
 ## 💼 Experience
 
-### Generative AI Engineer Intern · Cloud Engineer Intern
+### Security Content Lead & Program Administrator
 
-**First Cloud AI Journey Program — Amazon Web Services Vietnam**
+**First Cloud AI Journey Program — Ho Chi Minh City, Vietnam**  
+*Sep 2025 – Present*
 
-- Developed full-stack and Generative AI applications using AWS serverless services.
-- Built secure LLM workflows with structured outputs, scoring rubrics, guardrails, and automated reports.
-- Worked with AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, and Amazon Bedrock.
-- Applied IAM, OAuth, and Amazon Cognito for authentication and access control.
-- Monitored AI workloads and agents using Amazon CloudWatch logs and traces.
-- Supported AWS technical workshops and hands-on learning sessions.
+- Led the planning, preparation, and technical review of AWS security content covering IAM, Amazon S3, access-key security, CloudTrail, AWS KMS, VPC security, and cloud misconfiguration risks.
+- Provided technical guidance and mentoring to interns through AWS security concepts, hands-on exercises, troubleshooting, and remediation best practices.
+- Supported AWS workshops by assisting participants with environment setup, technical issues, and hands-on cloud security activities.
+- Developed and delivered AWS Cloud Security presentations for university AWS Cloud Clubs.
+- Reviewed technical materials and demonstrations for accuracy, logical learning flow, and alignment with AWS security best practices.
 
 ---
 
@@ -122,44 +138,61 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 <tr>
 <td width="50%" valign="top">
 
+### AWS Cloud Security Lab
+
+**IAM Exploitation and Hardening**
+
+- Assessed IAM configurations using CloudGoat, AWS CLI, and Terraform.
+- Identified excessive permissions, misconfigured trust relationships, and privilege-escalation paths.
+- Reproduced a controlled escalation from a limited principal to simulated administrator access.
+- Implemented least-privilege remediation, CloudTrail-based alerts, and post-fix validation.
+
+**Stack:** AWS IAM, CloudGoat, AWS CLI, Terraform, CloudTrail, CVSS v3.1
+
+</td>
+<td width="50%" valign="top">
+
+### AWS WAF Security Analytics Pipeline
+
+**Serverless Cloud Security Analytics**
+
+- Processed AWS WAF logs using Amazon S3, AWS Glue, Parquet, and Amazon Athena.
+- Combined deterministic filtering with Amazon Bedrock-assisted analysis.
+- Reduced query and inference costs through partitioning and two-stage analysis.
+- Retained security evidence to support investigation and reporting.
+
+**Stack:** AWS WAF, S3, Glue, Athena, Lambda, Bedrock, CloudWatch
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [OpPoCareer](https://oppocareer.com)
 
-**AI-Powered Recruitment Platform**
+**Secure AI Recruitment Platform**
 
-- Automated CV screening with structured scoring.
-- Real-time AI voice interviews with multi-turn interaction.
-- Candidate–job matching and job description generation.
-- Serverless backend deployed on AWS.
+- Designed a serverless architecture for real-time AI interviews and CV evaluation.
+- Used time-limited S3 presigned URLs for CV and interview-media uploads.
+- Applied Cognito JWT, structured scoring, anti-cheating controls, and human review.
+- Built candidate–job matching and job-description generation workflows.
 
-**Stack:** AWS Lambda, API Gateway, DynamoDB, S3, Gemini, React, Next.js, Node.js, TypeScript
+**Stack:** AWS Lambda, API Gateway, DynamoDB, S3, Cognito, Gemini, React, TypeScript
 
 </td>
 <td width="50%" valign="top">
 
 ### Signal Scout
 
-**AI-Powered Strategic Change Radar**
+**Evidence-Grounded Enterprise Intelligence Agent**
 
-- Autonomous agent integrating OpenAI, SEC EDGAR, TinyFish, and Apify.
-- Deterministic scoring, temporal validation, citations, and evidence controls.
-- Langfuse observability for tracing and monitoring.
+- Integrated OpenAI, SEC EDGAR, TinyFish, and Apify with deterministic scoring and temporal validation.
+- Added citations, fail-closed evidence checks, and Langfuse tracing.
+- Designed an AWS alternative with AgentCore Runtime, Gateway, and Bedrock Guardrails.
+- Modeled IAM/JWT authentication, tool authorization, prompt-injection filtering, PII protection, and session isolation.
 - **Runner-up — AWS Track, Agentic AI Build Week 2026.**
 
-**Stack:** OpenAI API, TypeScript, React, Node.js, Langfuse, Zod, Vitest
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Advanced Analytics with Athena and AI-Powered Serverless Security Analytics on AWS
-
-- Designed a serverless security analytics pipeline using Amazon Athena and Amazon Bedrock.
-- Processed AWS WAF logs with Amazon S3, AWS Glue, Parquet, and time-based partitioning.
-- Combined rule-based filtering with Generative AI analysis to reduce inference cost and false positives.
-- Designed for scalable and cost-efficient near-real-time security log analysis.
-
-**Stack:** Amazon S3, AWS Glue, Amazon Athena, Amazon Bedrock, AWS Lambda, Amazon CloudWatch, AWS WAF
+**Stack:** OpenAI API, TypeScript, React, Node.js, Langfuse, AgentCore, Bedrock Guardrails
 
 </td>
 </tr>
@@ -236,7 +269,7 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 - **AWS Certified Cloud Practitioner** — In Progress, expected Aug 2026
 - **AWS Cloud Practitioner Essentials** — Amazon Web Services
 
-### Security & AI Learning
+### Security & Secure AI Learning
 
 - Generative AI and LLM Security — Edureka
 - Generative AI for Security Fundamentals — Edureka
@@ -253,9 +286,9 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 
 ### 🤝 Let's Connect
 
-I am open to internship, junior, collaboration, and research opportunities in **AWS CloudOps**, **Generative AI**, and **Cloud Security**.
+I am open to junior, internship, collaboration, and research opportunities in **Red Team**, **AWS Cloud Security**, and **secure cloud architecture**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/letanluc)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luclt)
 [![Email](https://img.shields.io/badge/Send%20me-an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leluc2200@gmail.com)
 
 </div>
