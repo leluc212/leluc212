@@ -174,13 +174,33 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 
 ---
 
-## 🎖️ Cisco Networking Academy Badges
+## 🎖️ Certifications & Badges
+
+### AWS Certification
+
+<table align="center">
+<tr>
+<td align="center" width="100%">
+<a href="https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url">
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="145" height="145" alt="AWS Certified AI Practitioner badge" />
+</a>
+<br />
+<strong>AWS Certified<br />AI Practitioner</strong>
+<br />
+<sub>Amazon Web Services</sub>
+<br />
+<a href="https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url">Verify Credential</a>
+</td>
+</tr>
+</table>
+
+### Cisco Networking Academy
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 <a href="https://www.credly.com/badges/8d64f128-85e4-4b57-abb6-10cf10a6be6d/public_url">
-<img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="145" alt="CCNA Switching Routing and Wireless Essentials badge" />
+<img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="145" height="145" alt="CCNA Switching Routing and Wireless Essentials badge" />
 </a>
 <br />
 <strong>CCNA: Switching, Routing,<br />and Wireless Essentials</strong>
@@ -191,7 +211,7 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 </td>
 <td align="center" width="25%">
 <a href="https://www.credly.com/badges/839c3cab-67dd-4db3-a69f-8fe105b41fe1/public_url">
-<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="145" alt="Ethical Hacker badge" />
+<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="145" height="145" alt="Ethical Hacker badge" />
 </a>
 <br />
 <strong>Ethical Hacker</strong>
@@ -202,7 +222,7 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 </td>
 <td align="center" width="25%">
 <a href="https://www.credly.com/badges/be178d2a-4396-4ad7-99ba-17c7084a8fd0/public_url">
-<img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="145" alt="CyberOps Associate badge" />
+<img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="145" height="145" alt="CyberOps Associate badge" />
 </a>
 <br />
 <strong>CyberOps Associate</strong>
@@ -214,7 +234,7 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 <td align="center" width="25%">
 <!-- Replace the official badge link below with your personal Credly public_url when available. -->
 <a href="https://www.credly.com/org/cisco/badge/ccna-introduction-to-networks">
-<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="145" alt="CCNA Introduction to Networks badge" />
+<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="145" height="145" alt="CCNA Introduction to Networks badge" />
 </a>
 <br />
 <strong>CCNA: Introduction<br />to Networks</strong>
@@ -232,7 +252,8 @@ My main interests include AWS cloud infrastructure, serverless architecture, clo
 
 ### AWS Certifications
 
-- **AWS Certified AI Practitioner** — In Progress, expected Aug 2026
+- **AWS Certified AI Practitioner** — Certified · [Verify Credential](https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url)
+- **AWS Certified CloudOps Engineer - Associate** — In Progress, expected Sep 2026
 - **AWS Certified Cloud Practitioner** — In Progress, expected Aug 2026
 - **AWS Cloud Practitioner Essentials** — Amazon Web Services
 
