@@ -239,7 +239,7 @@ I build cloud-native AI systems on AWS, with hands-on experience across **agenti
 <sub>Expected Aug 2026</sub>
 </td>
 <td align="center" width="33%">
-<strong>AWS Certified MLOps<br />Engineer - Associate</strong>
+<strong>AWS Certified Machine Learning<br />Engineer - Associate</strong>
 <br /><br />
 <sub>Expected Sep 2026</sub>
 </td>
