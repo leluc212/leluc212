@@ -2,7 +2,7 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-## Cloud & Applied AI Engineer
+## AI Engineer
 
 Building **reliable, scalable, and secure AI products on AWS** — from agentic systems and multimodal AI to serverless backends, data pipelines, and cloud security.
 
