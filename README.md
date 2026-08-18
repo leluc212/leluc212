@@ -2,7 +2,7 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-## Fresher AI Engineer
+## AI Engineer
 
 Building practical AI applications with **Python, Computer Vision, RAG, LLM workflows, and AWS serverless services**.
 
