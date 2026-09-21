@@ -2,9 +2,9 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-## AI Engineer
+## AI Security Engineer
 
-Building practical AI applications with **Python, Computer Vision, RAG, LLM workflows, and AWS serverless services**.
+Building **secure, evidence-grounded AI systems** with **Python, RAG, Agentic AI, and AWS cloud security services**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Tan%20Luc-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luclt/)
 [![Email](https://img.shields.io/badge/Email-leluc2200%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leluc2200@gmail.com)
@@ -17,9 +17,9 @@ Building practical AI applications with **Python, Computer Vision, RAG, LLM work
 
 ## 👨‍💻 About Me
 
-I am a **final-year Information Assurance student at FPT University** with a **GPA of 3.15/4.00**, focusing on **Applied AI and cloud-based AI applications**.
+I am a **final-year Information Assurance student at FPT University** with a **GPA of 3.15/4.00**, focused on **AI security and cloud security**.
 
-I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, RAG, structured LLM workflows, Amazon Bedrock, Gemini, OpenAI APIs, and AWS serverless services**. I am currently seeking a **Fresher AI Engineer** opportunity where I can strengthen my practical AI/ML engineering skills and contribute to useful AI products.
+I have hands-on experience building **secure LLM and agentic AI systems**, with practical exposure to **RAG, LangChain, threat modeling, access control, data protection, AWS AI/security services, and secure AI workflows**. I am interested in contributing to the development of **safer, more trustworthy AI systems**.
 
 <table>
 <tr>
@@ -27,22 +27,22 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 
 ### 🔭 Current Focus
 
-* Applied AI and LLM applications
+* Secure LLM and Agentic AI systems
 * RAG and evidence-grounded workflows
-* Computer Vision and multimodal AI
-* AI backend development with FastAPI
-* AWS serverless services for AI applications
+* AWS cloud security and IAM
+* Threat modeling and AI security controls
+* Production AI deployment and observability
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ What I Work With
 
-* Structured LLM pipelines and evaluation
-* OCR and image-processing pipelines
-* Retrieval and citation-based AI workflows
-* REST/WebSocket APIs and asynchronous processing
-* Serverless data and AI workflows on AWS
+* Retrieval, validation, citation, and LLM evaluation
+* AWS IAM, CloudTrail, Guardrails, and least privilege
+* Containerized AI deployment on ECS Fargate
+* Serverless AI and security analytics on AWS
+* Python-based AI backends and automation
 
 </td>
 </tr>
@@ -54,44 +54,43 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 
 <div align="center">
 
-### Programming & AI Backend
+### Programming & AI Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Generative AI & RAG
+### LLM, RAG & Agentic AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
-![AgentCore](https://img.shields.io/badge/Bedrock%20AgentCore-Agentic%20AI-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AgentCore](https://img.shields.io/badge/Bedrock%20AgentCore-Agentic%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Evidence%20Grounding-5A67D8?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-AI%20Observability-111827?style=flat-square)
 
-### Computer Vision & Multimodal AI
+### AI & Cloud Security
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square\&logo=onnx\&logoColor=white)
-![RapidOCR](https://img.shields.io/badge/RapidOCR-OCR-0F766E?style=flat-square)
-![PyYAML](https://img.shields.io/badge/PyYAML-Config-374151?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Security-B91C1C?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Bedrock Guardrails](https://img.shields.io/badge/Bedrock%20Guardrails-AI%20Safety-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### AWS for AI Applications
+### AWS Deployment & Data
 
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square\&logo=awslambda\&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square\&logo=amazonapigateway\&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
-![Amazon Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square\&logo=amazonaws\&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square\&logo=amazoneventbridge\&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square\&logo=amazonaws\&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square\&logo=amazoncloudwatch\&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square\&logo=amazonaws\&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square\&logo=amazonaws\&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 </div>
 
@@ -109,10 +108,22 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 
 ---
 
-## 🌟 Selected AI & Cloud Projects
+## 🌟 Selected AI & Cloud Security Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### [AWSMentor](https://github.com/leluc212/AWS_Mentor)
+
+**RAG-based AWS Learning Assistant** · Personal Project
+
+* Built an end-to-end RAG assistant grounded in **official AWS documentation** using LangChain, OpenAI embeddings, FAISS semantic retrieval, score thresholding, and source-cited streaming responses.
+* Containerized and deployed the application on **ECS Fargate behind an ALB**, with reusable FAISS indexes, API-key management through Secrets Manager, and application logging through CloudWatch.
+
+**Tech:** Python, LangChain, OpenAI, FAISS, Streamlit, Docker, ECS Fargate, ECR, ALB, Secrets Manager, CloudWatch
+
+</td>
 <td width="50%" valign="top">
 
 ### [Signal Scout](https://github.com/leluc212/SignalScout)
@@ -125,20 +136,21 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 **Tech:** Amazon Bedrock AgentCore, Bedrock Guardrails, OpenAI, SEC EDGAR, TinyFish, Apify, Langfuse, IAM, CloudTrail, Cedar
 
 </td>
-<td width="50%" valign="top">
-
-### [VisionGraph-RAG](https://github.com/leluc212/VisionGraph-RAG-Multimodal-AWS-Architecture-Assessment-Engine)
-
-**Multimodal AWS Architecture Assessment Engine** · Individual Project
-
-* Built a CV & OCR pipeline using **OpenCV and RapidOCR** to convert AWS architecture diagrams into topology graphs via an Intermediate Representation (AIR).
-* Implemented an evidence-aware rule engine for AWS Well-Architected assessment, reaching **100% service recall (30/30)** and **0.94 Graph F1**.
-
-**Tech:** Python, FastAPI, OpenCV, RapidOCR (ONNX), Pydantic, PyYAML, SQLite
-
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [AWS Cloud Security Lab](https://github.com/leluc212/CloudGoat-Challenges)
+
+**IAM Exploitation & Hardening** · Individual Project
+
+* Deployed intentionally vulnerable AWS environments with **CloudGoat** to practice cloud security assessment, IAM enumeration, permission analysis, and controlled privilege-escalation scenarios.
+* Analyzed IAM users, roles, policies, and trust relationships to identify excessive permissions and attack paths, then applied **least-privilege remediation** and validated the hardened configuration.
+* Used AWS audit logs to investigate security-relevant activity and documented attack paths, findings, remediation steps, and validation results.
+
+**Tech:** CloudGoat, AWS IAM, CloudTrail, Terraform, AWS CLI, Linux
+
+</td>
 <td width="50%" valign="top">
 
 ### [OpPoCareer](https://oppocareer.com)
@@ -151,7 +163,9 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 **Tech:** AWS Amplify, API Gateway, Lambda, DynamoDB, S3, Cognito, WebSocket API, Gemini, eKYC, HMAC-SHA256
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### [Serverless AWS WAF Security Analytics Pipeline](https://github.com/leluc212/FCAJ_Workshop_Athena)
 
@@ -206,8 +220,7 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 ### AWS
 
 * **AWS Certified AI Practitioner** — Certified
-* **AWS Certified Cloud Practitioner** — In Progress, Expected Aug 2026
-* **AWS Certified Machine Learning Engineer - Associate** — In Progress, Expected Sep 2026
+* **AWS Certified Machine Learning Engineer - Associate** — In Progress, Expected Nov 2026
 
 ### Cisco
 
@@ -227,7 +240,7 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 ## 🌐 Languages
 
 * **Vietnamese:** Native
-* **English:** Upper Intermediate
+* **English:** B2 — Upper Intermediate
 * **Japanese:** Basic
 
 ---
@@ -236,7 +249,7 @@ I have hands-on project experience with **Python, FastAPI, Computer Vision/OCR, 
 
 ### 🤝 Let's Connect
 
-I am open to **Fresher AI Engineer**, **Applied AI**, **Generative AI**, and **AI-focused cloud engineering** opportunities.
+I am open to opportunities in **AI Security**, **Applied AI**, **Generative AI**, and **cloud security engineering**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luclt/)
 [![Email](https://img.shields.io/badge/Send%20me-an%20Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leluc2200@gmail.com)
