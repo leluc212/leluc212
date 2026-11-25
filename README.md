@@ -218,22 +218,51 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
 
 ---
 
-### AWS Certifications
+## 🎖️ Certifications
 
-[![AWS Cloud Practitioner](https://pages.awscloud.com/rs/112-TZM-766/images/1268_AWS_Cert_Template_badges_Cloud-Practitioner.png?version=1)](https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url)
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url">
+        <img src="https://pages.awscloud.com/rs/112-TZM-766/images/1268_AWS_Cert_Template_badges_Cloud-Practitioner.png?version=1" width="100" alt="AWS Certified Cloud Practitioner" />
+      </a><br />
+      <sub><b>AWS Cloud Practitioner</b></sub>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url">
+        <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/zh_TW/events/approved/images/summits/taipei/training-and-certification/lan.f5470fcc31bba569d878b2671a3c3eb65cbc5a1c.png" width="100" alt="AWS Certified Solutions Architect Associate" />
+      </a><br />
+      <sub><b>Solutions Architect – Associate</b></sub>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url">
+        <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS Certified AI Practitioner" />
+      </a><br />
+      <sub><b>AI Practitioner</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <a href="https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url">
+        <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" alt="Cisco Ethical Hacker" />
+      </a><br />
+      <sub><b>Cisco Ethical Hacker</b></sub>
+    </td>
+    <td align="center" colspan="3">
+      <a href="https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url">
+        <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" alt="Cisco CyberOps Associate" />
+      </a><br />
+      <sub><b>Cisco CyberOps Associate</b></sub>
+    </td>
+  </tr>
+</table>
 
-[![AWS Solutions Architect Associate](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/zh_TW/events/approved/images/summits/taipei/training-and-certification/lan.f5470fcc31bba569d878b2671a3c3eb65cbc5a1c.png)](https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url)
+### AWS Certifications - In Progress
 
-[![AWS AI Practitioner](https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url)
 * **AWS Certified CloudOps Engineer – Associate** — In Progress, Expected Nov 2026
 * **AWS Certified Developer - Associate**  — In Progress, Expected Dec 2026
 * **AWS Certified Solutions Architect - Professional**  — In Progress, Expected Feb 2027
 
-### Cisco Certifications
-
-[![Cisco Ethical Hacker](https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url)
-
-[![Cisco CyberOps Associate](https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url)
 
 ### Additional Training
 
