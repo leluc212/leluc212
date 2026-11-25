@@ -238,7 +238,7 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
       <a href="https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url">
         <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS Certified AI Practitioner" />
       </a><br />
-      <sub><b>AI Practitioner</b></sub>
+      <sub><b>AWS AI Practitioner</b></sub>
     </td>
   </tr>
   <tr>
