@@ -218,21 +218,22 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
 
 ---
 
-## 🎖️ Certifications
+### AWS Certifications
 
-### AWS
+[![AWS Cloud Practitioner](https://pages.awscloud.com/rs/112-TZM-766/images/1268_AWS_Cert_Template_badges_Cloud-Practitioner.png?version=1)](https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url)
 
-* [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url) — Certified
-* [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url) — Certified
-* [**AWS Certified AI Practitioner**](https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url) — Certified
+[![AWS Solutions Architect Associate](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/zh_TW/events/approved/images/summits/taipei/training-and-certification/lan.f5470fcc31bba569d878b2671a3c3eb65cbc5a1c.png)](https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url)
+
+[![AWS AI Practitioner](https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url)
 * **AWS Certified CloudOps Engineer – Associate** — In Progress, Expected Nov 2026
 * **AWS Certified Developer - Associate**  — In Progress, Expected Dec 2026
 * **AWS Certified Solutions Architect - Professional**  — In Progress, Expected Feb 2027
 
-### Cisco
+### Cisco Certifications
 
-* [**Ethical Hacker**](https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url) — Certified
-* [**CyberOps Associate**](https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url) — Certified
+[![Cisco Ethical Hacker](https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url)
+
+[![Cisco CyberOps Associate](https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url)
 
 ### Additional Training
 
