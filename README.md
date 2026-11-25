@@ -224,13 +224,15 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
 
 * [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url) — Certified
 * [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url) — Certified
-* **AWS Certified AI Practitioner** — Certified
-* **AWS Certified Machine Learning Engineer – Associate** — In Progress, Expected Nov 2026
+* [**AWS Certified AI Practitioner**](https://www.credly.com/badges/cd07ea4b-64de-4089-a487-def4fcf33351/public_url) — Certified
+* **AWS Certified CloudOps Engineer – Associate** — In Progress, Expected Nov 2026
+* **AWS Certified Developer - Associate**  — In Progress, Expected Dec 2026
+* **AWS Certified Solutions Architect - Professional**  — In Progress, Expected Feb 2027
 
 ### Cisco
 
-* **Ethical Hacker** — Certified
-* **CyberOps Associate** — Certified
+* [**Ethical Hacker**](https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url) — Certified
+* [**CyberOps Associate**](https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url) — Certified
 
 ### Additional Training
 
