@@ -230,7 +230,7 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
     </td>
     <td align="center" colspan="2">
       <a href="https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url">
-        <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/zh_TW/events/approved/images/summits/taipei/training-and-certification/lan.f5470fcc31bba569d878b2671a3c3eb65cbc5a1c.png" width="100" alt="AWS Certified Solutions Architect Associate" />
+        <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/zh_TW/events/approved/images/summits/taipei/training-and-certification/lan.f5470fcc31bba569d878b2671a3c3eb65cbc5a1c.png" width="130" alt="AWS Certified Solutions Architect Associate" />
       </a><br />
       <sub><b>Solutions Architect – Associate</b></sub>
     </td>
