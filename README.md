@@ -2,9 +2,9 @@
 
 # Hi, I'm Le Tan Luc 👋
 
-## AI Security Engineer
+## CloudOps / CloudNative Engineer
 
-Building **secure, evidence-grounded AI systems** with **Python, RAG, Agentic AI, and AWS cloud security services**.
+Building and supporting **secure, reliable cloud-native workloads** with **AWS, Linux, Docker, Terraform, serverless services, and cloud observability**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Tan%20Luc-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luclt/)
 [![Email](https://img.shields.io/badge/Email-leluc2200%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leluc2200@gmail.com)
@@ -17,9 +17,9 @@ Building **secure, evidence-grounded AI systems** with **Python, RAG, Agentic AI
 
 ## 👨‍💻 About Me
 
-I am a **final-year Information Assurance student at FPT University** with a **GPA of 3.15/4.00**, focused on **AI security and cloud security**.
+I am a **final-year Information Assurance student at FPT University** with a **GPA of 3.15/4.00**, focusing on **CloudOps and Cloud-Native engineering**.
 
-I have hands-on experience building **secure LLM and agentic AI systems**, with practical exposure to **RAG, LangChain, threat modeling, access control, data protection, AWS AI/security services, and secure AI workflows**. I am interested in contributing to the development of **safer, more trustworthy AI systems**.
+I have hands-on project experience deploying AWS workloads, containerizing applications with **Docker**, running workloads on **Amazon ECS Fargate**, and building serverless solutions. I also work with **Linux, Terraform, AWS IAM, CloudTrail, and CloudWatch**, with an interest in infrastructure automation, monitoring and logging, cloud security, and reliable cloud operations.
 
 <table>
 <tr>
@@ -27,22 +27,23 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 ### 🔭 Current Focus
 
-* Secure LLM and Agentic AI systems
-* RAG and evidence-grounded workflows
-* AWS cloud security and IAM
-* Threat modeling and AI security controls
-* Production AI deployment and observability
+* AWS cloud infrastructure and workload deployment
+* Cloud-native application delivery with Docker, ECR, and ECS Fargate
+* Infrastructure as Code with Terraform
+* Monitoring, logging, and operational visibility with CloudWatch and CloudTrail
+* AWS security, IAM, and least-privilege access
+* Kubernetes fundamentals and container orchestration (currently learning)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ What I Work With
 
-* Retrieval, validation, citation, and LLM evaluation
-* AWS IAM, CloudTrail, Guardrails, and least privilege
-* Containerized AI deployment on ECS Fargate
-* Serverless AI and security analytics on AWS
-* Python-based AI backends and automation
+* Linux environments, AWS CLI, Git, and Python-based automation
+* Containerized application deployment on ECS Fargate behind an ALB
+* AWS serverless services such as Lambda and API Gateway
+* Infrastructure provisioning and cloud security labs with Terraform
+* Application logging, audit trails, and security analytics on AWS
 
 </td>
 </tr>
@@ -54,16 +55,38 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 <div align="center">
 
-### Programming & AI Engineering
+### Cloud Platform & AWS Services
 
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Platform-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Containers, Infrastructure & Automation
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### LLM, RAG & Agentic AI
+### Observability & Cloud Security
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS%20WAF-B91C1C?style=flat-square&logo=amazonaws&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Security-B91C1C?style=flat-square)
+![Bedrock Guardrails](https://img.shields.io/badge/Bedrock%20Guardrails-AI%20Safety-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### AI & Data Engineering (Additional Experience)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -71,26 +94,6 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 ![AgentCore](https://img.shields.io/badge/Bedrock%20AgentCore-Agentic%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Evidence%20Grounding-5A67D8?style=flat-square)
 ![Langfuse](https://img.shields.io/badge/Langfuse-AI%20Observability-111827?style=flat-square)
-
-### AI & Cloud Security
-
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Security-B91C1C?style=flat-square)
-![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Bedrock Guardrails](https://img.shields.io/badge/Bedrock%20Guardrails-AI%20Safety-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### AWS Deployment & Data
-
-![ECS](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 </div>
 
@@ -102,21 +105,34 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 **First Cloud AI Journey Program** · Sep 2025 — Present · Ho Chi Minh City, Viet Nam
 
-* Supported the preparation of hands-on AWS and Generative AI learning content, including diagrams, labs, and implementation examples.
-* Assisted interns and workshop participants with AI/cloud projects, AWS service integration, debugging, and basic architecture questions.
+* Supported the preparation of hands-on AWS and Generative AI learning content, including architecture diagrams, labs, and implementation examples.
+* Assisted interns and workshop participants with AWS service integration, cloud project setup, debugging, and basic architecture questions.
 * Helped deliver technical workshops and provided practical support for serverless, data, security, and AI exercises on AWS.
 
 ---
 
-## 🌟 Selected AI & Cloud Security Projects
+## 🌟 Selected Cloud & Platform Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### [AWS Cloud Security Lab](https://github.com/leluc212/CloudGoat-Challenges)
+
+**IAM Assessment & Cloud Infrastructure Hardening** · Individual Project
+
+* Deployed intentionally vulnerable AWS environments with **CloudGoat** to practice cloud security assessment, IAM enumeration, permission analysis, and controlled privilege-escalation scenarios.
+* Analyzed IAM users, roles, policies, and trust relationships to identify excessive permissions and attack paths, then applied **least-privilege remediation** and validated the hardened configuration.
+* Used AWS audit logs to investigate security-relevant activity and documented attack paths, findings, remediation steps, and validation results.
+
+**Tech:** CloudGoat, AWS IAM, CloudTrail, Terraform, AWS CLI, Linux
+
+</td>
+<td width="50%" valign="top">
+
 ### [AWSMentor](https://github.com/leluc212/AWS_Mentor)
 
-**RAG-based AWS Learning Assistant** · Personal Project
+**Containerized RAG Application on AWS** · Personal Project
 
 * Built an end-to-end RAG assistant grounded in **official AWS documentation** using LangChain, OpenAI embeddings, FAISS semantic retrieval, score thresholding, and source-cited streaming responses.
 * Containerized and deployed the application on **ECS Fargate behind an ALB**, with reusable FAISS indexes, API-key management through Secrets Manager, and application logging through CloudWatch.
@@ -124,31 +140,18 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 **Tech:** Python, LangChain, OpenAI, FAISS, Streamlit, Docker, ECS Fargate, ECR, ALB, Secrets Manager, CloudWatch
 
 </td>
-<td width="50%" valign="top">
-
-### [Signal Scout](https://github.com/leluc212/SignalScout)
-
-**Evidence-Grounded Enterprise Intelligence Agent** · Team Size: 6
-
-* Contributed to an evidence-grounded multi-agent workflow combining retrieval, validation, scoring, LLM synthesis, citations, temporal checks, and human review.
-* Worked on the AWS solution design and retrieval-cost comparison; the team earned **Runner-Up in the AWS Track at Agentic AI Build Week 2026**.
-
-**Tech:** Amazon Bedrock AgentCore, Bedrock Guardrails, OpenAI, SEC EDGAR, TinyFish, Apify, Langfuse, IAM, CloudTrail, Cedar
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [AWS Cloud Security Lab](https://github.com/leluc212/CloudGoat-Challenges)
+### [Serverless AWS WAF Security Analytics Pipeline](https://github.com/leluc212/FCAJ_Workshop_Athena)
 
-**IAM Exploitation & Hardening** · Individual Project
+**Cloud Log Processing & Security Analytics** · Team Size: 2
 
-* Deployed intentionally vulnerable AWS environments with **CloudGoat** to practice cloud security assessment, IAM enumeration, permission analysis, and controlled privilege-escalation scenarios.
-* Analyzed IAM users, roles, policies, and trust relationships to identify excessive permissions and attack paths, then applied **least-privilege remediation** and validated the hardened configuration.
-* Used AWS audit logs to investigate security-relevant activity and documented attack paths, findings, remediation steps, and validation results.
+* Built a serverless data pipeline that processes AWS WAF logs with Athena rules and uses Generative AI to create readable security findings.
+* Used Parquet, time-based partitioning, curated data layers, asynchronous Athena queries, and stored evidence for traceable reporting.
 
-**Tech:** CloudGoat, AWS IAM, CloudTrail, Terraform, AWS CLI, Linux
+**Tech:** AWS WAF, S3, Glue, Athena, Lambda, CloudWatch, Amazon Bedrock, Parquet
 
 </td>
 <td width="50%" valign="top">
@@ -167,14 +170,14 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 <tr>
 <td colspan="2" valign="top">
 
-### [Serverless AWS WAF Security Analytics Pipeline](https://github.com/leluc212/FCAJ_Workshop_Athena)
+### [Signal Scout](https://github.com/leluc212/SignalScout)
 
-**AI-Assisted Security Analytics on AWS** · Team Size: 2
+**Evidence-Grounded Enterprise Intelligence Agent** · Team Size: 6
 
-* Built a serverless data pipeline that processes AWS WAF logs with Athena rules and uses Generative AI to create readable security findings.
-* Used Parquet, time-based partitioning, curated data layers, asynchronous Athena queries, and stored evidence for traceable reporting.
+* Contributed to an evidence-grounded multi-agent workflow combining retrieval, validation, scoring, LLM synthesis, citations, temporal checks, and human review.
+* Worked on the AWS solution design and retrieval-cost comparison; the team earned **Runner-Up in the AWS Track at Agentic AI Build Week 2026**.
 
-**Tech:** AWS WAF, S3, Glue, Athena, Lambda, CloudWatch, Amazon Bedrock, Parquet
+**Tech:** Amazon Bedrock AgentCore, Bedrock Guardrails, OpenAI, SEC EDGAR, TinyFish, Apify, Langfuse, IAM, CloudTrail, Cedar
 
 </td>
 </tr>
@@ -182,13 +185,13 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 ---
 
-## 🧑‍🏫 AI Workshops & Technical Activities
+## 🧑‍🏫 Cloud & Technical Workshops
 
 ### Production Multi-Agent AI on AWS — Amazon Bedrock AgentCore
 
 **Workshop Technical Support · Agentic AI Build Week · AWS HCMC Office · Jul 2026**
 
-* Supported a 90-minute hands-on Agentic AI workshop, helping participants with AWS Workshop Studio setup, AgentCore deployment, environment configuration, and troubleshooting.
+* Supported a 90-minute hands-on AWS workshop, helping participants with AWS Workshop Studio setup, AgentCore deployment, environment configuration, and troubleshooting.
 * Assisted participants with AgentCore Runtime, memory, multi-agent patterns, Gateway, tool integration, and Code Interpreter exercises.
 
 ### Amazon Quick & Kiro Fiesta Vietnam 2026 #2
@@ -202,8 +205,8 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 ## 🎓 Education
 
-**FPT University** · Ho Chi Minh City, Viet Nam
-**Bachelor's Degree in Information Assurance** · Sep 2022 — Dec 2026 (Expected)
+**FPT University** · Ho Chi Minh City, Viet Nam  
+**Bachelor's Degree in Information Assurance** · Sep 2022 — Dec 2026 (Expected)  
 **GPA: 3.15/4.00**
 
 ---
@@ -219,8 +222,10 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 ### AWS
 
+* [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/465e6bf1-ac24-4389-95be-61329339a39c/public_url) — Certified
+* [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/523c2266-2f8b-4017-a416-4ba14baf9161/public_url) — Certified
 * **AWS Certified AI Practitioner** — Certified
-* **AWS Certified Machine Learning Engineer - Associate** — In Progress, Expected Nov 2026
+* **AWS Certified Machine Learning Engineer – Associate** — In Progress, Expected Nov 2026
 
 ### Cisco
 
@@ -249,7 +254,7 @@ I have hands-on experience building **secure LLM and agentic AI systems**, with 
 
 ### 🤝 Let's Connect
 
-I am open to opportunities in **AI Security**, **Applied AI**, **Generative AI**, and **cloud security engineering**.
+I am open to opportunities in **CloudOps**, **Cloud-Native Engineering**, **AWS Cloud Infrastructure**, and **Platform Operations**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luclt/)
 [![Email](https://img.shields.io/badge/Send%20me-an%20Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leluc2200@gmail.com)
