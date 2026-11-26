@@ -242,13 +242,19 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" colspan="2">
+      <a href="https://www.credly.com/badges/ce2073ef-3a9e-408f-829c-5f6a109f84ad/public_url">
+        <img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" width="100" alt="AWS Certified CloudOps Engineer – Associate" />
+      </a><br />
+      <sub><b>CloudOps Engineer – Associate</b></sub>
+    </td>
+    <td align="center" colspan="2">
       <a href="https://www.credly.com/badges/c413303d-cdc3-481d-9ae6-917bb97d3d88/public_url">
         <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" alt="Cisco Ethical Hacker" />
       </a><br />
       <sub><b>Cisco Ethical Hacker</b></sub>
     </td>
-    <td align="center" colspan="3">
+    <td align="center" colspan="2">
       <a href="https://www.credly.com/badges/2120549d-3027-4bad-bb13-4f9fa242e907/public_url">
         <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" alt="Cisco CyberOps Associate" />
       </a><br />
@@ -259,7 +265,6 @@ I have hands-on project experience deploying AWS workloads, containerizing appli
 
 ### AWS Certifications - In Progress
 
-* **AWS Certified CloudOps Engineer – Associate** — In Progress, Expected Nov 2026
 * **AWS Certified Developer - Associate**  — In Progress, Expected Dec 2026
 * **AWS Certified Solutions Architect - Professional**  — In Progress, Expected Feb 2027
 
